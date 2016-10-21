@@ -1,6 +1,6 @@
 # Programming_ApacheSolr
 
-Learning sample programs of Apache Solr using Spring Data
+Learn/Understand sample programs of Apache Solr using Spring Data
 
 	-- ================================================
 	-- Steps to Start/Configure Apache Solr
