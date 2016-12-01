@@ -1,8 +1,5 @@
 package com.vinay.solr.config;
 
-// Maven Settings : C:\Users\<<UserID>>\.m2\settings.xml
-// Code Reference : https://examples.javacodegeeks.com/enterprise-java/spring/spring-data-solr-example/
-
 import org.apache.solr.client.solrj.SolrServer;
 import org.apache.solr.client.solrj.impl.HttpSolrServer;
 import org.springframework.beans.factory.annotation.Value;
